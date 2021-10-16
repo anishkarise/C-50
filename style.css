@@ -1,0 +1,22 @@
+h1{
+    color:khaki;
+}
+*{
+
+    background-color:rgb(182, 141, 141);
+    color:cyan;
+}
+
+.header{
+    background-color: rgb(160, 92, 160);
+    display:flex;
+    justify-content: space-between;
+}
+.iteam{
+display:flex;
+justify-content: space-evenly;
+}
+.menu{
+    display:flex;
+    justify-content: space-evenly;
+}
